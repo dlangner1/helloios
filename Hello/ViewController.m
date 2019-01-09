@@ -50,7 +50,6 @@
     [self.textDisplayButton.bottomAnchor constraintEqualToAnchor:self.view.bottomAnchor].active = YES;
 }
      
-     
 - (void)displayedTextPressed:(UIButton *)sender
 {
     self.textPhraseIndex++;
